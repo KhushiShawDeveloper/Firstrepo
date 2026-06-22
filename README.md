@@ -1,2 +1,2 @@
 # Firstrepo
-This is my very first repository ~by khushi Shaw
+This is my very first repository ~Author khushi Shaw
